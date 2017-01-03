@@ -1,13 +1,40 @@
+body {
+  background: #d7d0d8;
+  font-family: 'Lora', serif;
+
+}
+
+#title {
+  margin-top: 40px;
+  font-size: 2.3em;
+  text-shadow: 1px 1px 3px;
+}
+
+#reset {
+  margin-top: 10px;
+  padding: 10px;
+}
+
+#instructions {
+  height: 80px;
+  padding-top: 18px;
+  font-size: 2em;
+}
+
 .game-section {
   float: left;
   height: 100px;
   width: 100px;
   border: solid;
+  border-radius: 5px;
+  font-size: 60px;
+  text-align: center;
 }
 
 #game-board {
+  margin: 5px auto;
   height: 350px;
-  width: 350px;
+  width: 306px;
   display: none;
 }
 
@@ -21,4 +48,13 @@
 
 .won-message {
   display: none;
+}
+
+#credits {
+  text-align: center;
+  margin: 15px auto;
+}
+
+#credits a {
+  color: black;
 }
