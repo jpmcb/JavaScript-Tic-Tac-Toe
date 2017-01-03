@@ -1,0 +1,24 @@
+.game-section {
+  float: left;
+  height: 100px;
+  width: 100px;
+  border: solid;
+}
+
+#game-board {
+  height: 350px;
+  width: 350px;
+  display: none;
+}
+
+.pick-side {
+  display: none;
+}
+
+#player-turn {
+  display: none;
+}
+
+.won-message {
+  display: none;
+}
