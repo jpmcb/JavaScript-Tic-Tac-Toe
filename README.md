@@ -1,5 +1,6 @@
-#Tic Tac Toe Game, JavaScript & JQuery#
+#Tic Tac Toe Game, JavaScript & JQuery
+_______
 
-A Pen created at CodePen.io. You can find this one at http://codepen.io/jpmcb/pen/rjBgZg.
+A *simple* tic tac toe game that lets you play against an AI computer or a friend!
 
-A *simple* tic tac toe game that lets you play against an AI computer
+A working version of the game can be [found here](https://jpmcb.github.io/JavaScript-Tic-Tac-Toe/)
